@@ -1,0 +1,20 @@
+.headertitle {
+    background-color: darkblue;
+    color: white;
+    padding: 29px;
+    min-width: 14.2%;
+    margin: 0px;
+}
+
+.headertitle:hover {
+    background-color: deepskyblue;
+}
+
+.headertitle a {
+    color: white;
+    padding: 15px;
+}
+
+.contentArea {
+    margin: 30px;
+}

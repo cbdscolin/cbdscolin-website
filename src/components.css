@@ -1,0 +1,89 @@
+.resumecontainer {
+    width: 10px;
+    height: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.resumeMain div button {
+    background-color: darkblue;
+    float: right;
+}
+
+.imgAbout {
+    margin: 60px;
+    width: 200px;
+    height: 200px;
+}
+
+.textAbout {
+    margin: 60px;
+    padding: 25px;
+    min-width: 50%;
+    max-width: 60%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: yellow;
+    color: black;
+    font-weight: 700;
+    font-style: italic;
+    box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.596);
+}
+
+.expEduMain div {
+    margin-left: 13%;
+    margin-top: 45px;
+    box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.596);
+    width: 75%;
+}
+
+.expEduMain div div {
+    width: 180px;
+    height: 180px;
+    display: inline-block;
+    margin: 20px;
+}
+
+.expEduMain div ul {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 2%;
+}
+
+.expEduMain div ul li {
+    padding: 10px;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.expEduMain div div img {
+    max-width: 100%;
+    max-height: 100%;
+    min-width: 150px;
+    min-height: 150px;
+    cursor: pointer;
+}
+
+
+.contactUs div {
+    margin: 3px;
+    margin-left: 8%;
+    width: 500px;
+    padding: 5px;
+}
+
+.contactUs div div {
+    display: inline-block;
+    width: 200px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.contactUs div div img {
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
+
